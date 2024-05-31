@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Azure technology certifications 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have certifications in Azure AI and Azure Fundamentals. I will get Azure Developer Associate and Azure AI Engineer Associate certifications in this year.",
+    url: "https://www.linkedin.com/in/minjinpark001122334455/details/certifications/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "OpenSource experience",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I did opensource contribution since 2023. I started with Korean government project. And lately I participated .NET opensource project of GitHub Education. ",
+    url: "https://github.com/education/codespaces-project-template-dotnet/tree/main/translations/ko-kr",
   },
   {
-    title: "My Resume Site",
+    title: "Career",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In 2023, I built AI service for logistic hub of Samsung in Thiland and 3D Vision AI for Incheon Airport. And in 2024, I got internship program in LG Electronics Research center. ",
+    url: "https://www.linkedin.com/in/minjinpark001122334455/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "IT Event delivery",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I love to share my knowledge and experience to grow with others. So, I host many events such as Global AI Bootcamp, IT booth.",
+    url: "https://www.linkedin.com/in/minjinpark001122334455/details/featured/",
   },
 ];
 
